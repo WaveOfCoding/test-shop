@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32b82475-64c2-4e3f-a455-d687b99e1151" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/migrations/0002_alter_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/migrations/0003_alter_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/media/images/product/doctor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/media/images/product/kvas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/media/images/product/milk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/media/images/product/smetana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IsHb6A2fi2F9tudh1v3pqfAgCs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32b82475-64c2-4e3f-a455-d687b99e1151" name="Changes" comment="" />
+      <created>1670963440461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670963440461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
