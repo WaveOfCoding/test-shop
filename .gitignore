@@ -4,4 +4,4 @@ __pycache__
 venv
 main/db.sqlite3
 /static
-.idea
+.idea/
